@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionstring": "AccountEndpoint=https://jforrer-resume.documents.azure.com:443/;AccountKey=gbu2RuM9fAMz548h6VF4PJP1H3okcOi8J4QUjfPN8ZV5Bzd0RLTiGkMJ6XNEcSNEaU8oS4STcZW2PEGfdprJpw==;"
+  },
+  "Host":
+  {
+    "CORS": "*"
+  }
+}
